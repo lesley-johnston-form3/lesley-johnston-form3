@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @lesley-johnston-form3
-- 👀 I’m interested in Golang
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m Lesley Johnston 
+- 👀 I’m a Talent Partner at Form3
+- 🌱 Interested in learning more about Form3? Check out out [careers site] (https://www.form3.tech/careers)
 
 <!---
 lesley-johnston-form3/lesley-johnston-form3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
